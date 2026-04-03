@@ -3,7 +3,6 @@
     font-size: 16px;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 body {
@@ -12,8 +11,8 @@ body {
 }
 
 main {
-    max-width: 00px;
-    margin: 20px auto;
+    max-width: 500px;
+    margin: 10px auto;
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
